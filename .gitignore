@@ -1,0 +1,23 @@
+# Python byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Lambda zip packages
+*.zip
+
+# Local environment
+.env
+.venv
+venv/
