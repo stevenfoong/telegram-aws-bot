@@ -1,0 +1,4 @@
+# Test dependencies only — production code runs on the AWS Lambda runtime
+# which already includes boto3.
+pytest>=7.0,<9
+boto3>=1.26
